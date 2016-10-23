@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">闲暇App</string>
+
+    <string name="splash_info">This is what you really what</string>
+    <string name="title_name">闲暇</string>
+
+    <string name="load_error">网络不见了~</string>
+</resources>

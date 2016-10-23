@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Text-->
+    <color name="textColor">#424242</color>
+
+    <!--TableLayout-->
+    <color name="TabTextColor">#FFFFFF</color>
+    <color name="TabSelectColor">#FAFAFA</color>
+    <color name="TabIndicatorColor">#FFFFFF</color>
+
+    <!--RefreshLayout-->
+    <color name="refresh_progress_1">#536DFE</color>
+    <color name="refresh_progress_2">#f44336</color>
+    <color name="refresh_progress_3">#FF4081</color>
+
+    <color name="gery">#FAFAFA</color>
+
+    <!--gank-->
+    <color name="android">#1F8AFF</color>
+    <color name="ios">#F05D5E</color>
+    <color name="休息视频">#FFD034</color>
+    <color name="前端">#28B78D</color>
+    <color name="拓展资源">#F16745</color>
+    <color name="瞎推荐">#A199E9</color>
+    <color name="black">#000</color>
+    <color name="white">#fff</color>
+
+    <!--option card-->
+    <color name="card_1">#9068be</color>
+    <color name="card_2">#1F8AFF</color>
+    <color name="card_3">#28B78D</color>
+    <color name="card_4">#F16745</color>
+
+</resources>
